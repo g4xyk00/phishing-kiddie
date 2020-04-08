@@ -4,6 +4,8 @@
 # phishing-kiddie
 This repository stores the proof-of-concept of Phishing attacks.
 
+# Theory
+Fear, Uncertainty, Doubt (FUB)
 
 ## Attachment
 ### HTML
